@@ -2,7 +2,7 @@
 
 - The motors can be connected into their terminal blocks anyway around, and the screws then tightened so that they are held securely in place.
 
-- The battery pack *must* be connected so that the red wire goes into port labeled UTN. The black wire goes into the port labeled GND. Make sure the battery pack is turned off as you do this.
+- The battery pack *must* be connected so that the red wire goes into port labelled UTN. The black wire goes into the port labelled GND. Make sure the battery pack is turned off as you do this.
 
 	![Board connected to power and motors](images/connect1.jpg)
 
