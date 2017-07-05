@@ -1,0 +1,13 @@
+title: Setting up a motor controller board on the Raspberry Pi
+hero_image: images/banner.png
+description: How to set up a motor controller board with two motors
+original_url: 
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "electronics, physical computing"
+steps:
+  - title: Setup the motor controller
